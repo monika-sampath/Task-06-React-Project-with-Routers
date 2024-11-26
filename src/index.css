@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+	@media (min-width: 425px) {#cart{display: flex;flex-flow: column;align-items: flex-start;} }
